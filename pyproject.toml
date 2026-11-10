@@ -1,0 +1,12 @@
+
+[project]
+name = "ds-environment"
+version = "0.1.0"
+description = "Data Science Environment Setup"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "jupyter",
+]
